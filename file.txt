@@ -1,1 +1,2 @@
-Hello ! This a file
+Hello ! This a file.
+You can work with these files.
